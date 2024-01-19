@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\bin\Debug\gercek c# li yapboz.exe.config
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\bin\Debug\gercek c# li yapboz.exe
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\bin\Debug\gercek c# li yapboz.pdb
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek c# li yapboz.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek c# li yapboz.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek_c__li_yapboz.Form1.resources
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek_c__li_yapboz.Properties.Resources.resources
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek c# li yapboz.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek c# li yapboz.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek c# li yapboz.exe
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek c# li yapboz.pdb
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek_c__li_yapboz.Form2.resources
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek_c__li_yapboz.Form3.resources
+C:\Users\furka\source\repos\gercek c# li yapboz\gercek c# li yapboz\obj\Debug\gercek_c__li_yapboz.Form4.resources
